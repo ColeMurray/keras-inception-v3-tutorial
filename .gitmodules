@@ -1,6 +1,6 @@
-[submodule "keras-inceptionv3-tutorial"]
-	path = keras-inceptionv3-tutorial
-	url = https://github.com/ColeMurray/keras-inceptionv3-tutorial
 [submodule "appengine-frontend"]
 	path = appengine-frontend
 	url = https://github.com/ColeMurray/appengine-frontend
+[submodule "keras-inceptionv3-flask-api"]
+	path = keras-inceptionv3-flask-api
+	url = https://github.com/ColeMurray/keras-inceptionv3-flask-api
